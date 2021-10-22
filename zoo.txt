@@ -1,1 +1,11 @@
+visual encodings
+graphical perception experiments
+Protovis, an open-source language for web-based data visualization
+graph distance
+unrelated nodes
+Enclosure Diagrams 
+circle-packing layouts
+Squarified treemaps
+force-directed layouts
 
+bioinformatics 
